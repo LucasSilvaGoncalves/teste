@@ -12,8 +12,8 @@ Com isso ele inicia o servidor NodeJS na URL: http://localhost:3000
 
 O desenvolvimento do projeto foi realizado usando as seguintes plataformas:
 
-NodeJS v12.16.0
-MySQL v10.4.6
+- NodeJS v12.16.0
+- MySQL v10.4.6
 
 Então é recomendado que o usuário da aplicação use as mesma versôes.
 
