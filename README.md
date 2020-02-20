@@ -32,7 +32,7 @@ No projeto foi usado os seguintes pacotes/libs :
 
 Configuração de banco de dados:
 
-O usuário deve acessar o arquivo index.js, entre as linhas **6** e **14** existe os dados de configurações de banco de dados.
+O usuário deve acessar o arquivo **index.js**, entre as linhas **6** e **14** existe os dados de configurações de banco de dados.
 
 Exemplo:
 
