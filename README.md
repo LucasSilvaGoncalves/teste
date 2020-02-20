@@ -36,6 +36,7 @@ O usuário deve acessar o arquivo index.js, entre as linhas **6** e **14** exist
 
 Exemplo:
 
+```
 const knex = require('knex')({
     client: 'mysql',
     connection: {
@@ -45,7 +46,7 @@ const knex = require('knex')({
       database : 'dasa'
     }
 });
-
+```
 
 ### Consultandos os Endpoint API
 
