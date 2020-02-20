@@ -50,7 +50,7 @@ const knex = require('knex')({
 
 ### Consultandos os Endpoint API
 
-Foi criado um **Swagger** com a documentação da API, o mesmo está localizado em: dasa_exp/Docs/Swagger/swagger.yaml
+Foi criado um **Swagger** com a documentação da API, o mesmo está localizado em: dasa_exp/Docs/Swagger/**swagger.yaml**
 
 
 ## Authors
